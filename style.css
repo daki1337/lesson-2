@@ -37,3 +37,20 @@ color:#0190d6;
   width: 70%;
 margin: auto;
 }
+.tb {
+  color: #808285;
+  font-size: 18px;
+  font-family: RobotoCondensedLight;
+  padding: 6px 13px;
+
+}
+.paragraph{
+  color: #333;
+  font-size: 21px;
+  font-family: RobotoCondensedLight;
+  line-height: 1.57;
+
+}
+.font-style{
+    font-style: italic;
+}
