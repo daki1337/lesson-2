@@ -54,3 +54,10 @@ margin: auto;
 .font-style{
     font-style: italic;
 }
+.cooking {
+  font-weight: 400;
+    color: #0190d6;
+    text-transform: uppercase;
+    font-family: RobotoCondensedBold;
+    margin-bottom: 21px;
+}
