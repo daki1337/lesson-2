@@ -1,0 +1,39 @@
+.center {
+  text-align: center;
+  font-size: 48px;
+}
+.blue {
+  font-size: 36px;
+  text-align: center;
+  color: #0691d7;
+}
+.black {
+    color: #333;
+    font-size: 21px;
+}
+.main-title{
+background-image: url(./assets/images/60423972b0a20.jpg);
+height: 512px;
+color: #fff;
+letter-spacing: 5px;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-color: #0691d7;
+}
+.yellow{
+  color: #ffa400;;
+}
+.subtitle{
+font-size: 24px;
+color:#0190d6;
+}
+.td {
+  color: #333;
+  font-size: 21px;
+  line-height: 1.57;
+}
+.recept {
+  width: 70%;
+margin: auto;
+}
