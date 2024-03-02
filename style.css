@@ -1,3 +1,9 @@
+.body{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
 .center {
   text-align: center;
   font-size: 48px;
@@ -34,7 +40,7 @@ color:#0190d6;
   line-height: 1.57;
 }
 .recept {
-  width: 70%;
+  width: 65%;
 margin: auto;
 }
 .tb {
@@ -53,6 +59,10 @@ margin: auto;
 }
 .font-style{
     font-style: italic;
+    color: #333;
+    font-size: 21px;
+    font-family: RobotoCondensedLight;
+    line-height: 1.57;
 }
 .cooking {
   font-weight: 400;
@@ -61,3 +71,5 @@ margin: auto;
     font-family: RobotoCondensedBold;
     margin-bottom: 21px;
 }
+
+
